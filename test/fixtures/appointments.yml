@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date_of_appointment: 2023-10-24 13:46:02
+  dentist: one
+  customer: one
+  is_paid: false
+  status: MyString
+
+two:
+  date_of_appointment: 2023-10-24 13:46:02
+  dentist: two
+  customer: two
+  is_paid: false
+  status: MyString
